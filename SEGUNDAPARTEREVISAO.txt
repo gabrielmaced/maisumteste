@@ -1,0 +1,29 @@
+Verificar no github
+
+
+Anotar todas as bases de dados
+CAPTURAR TODOS AS BASES DE DADOS BAIXA-LAS
+quais linguaguem natural
+qual livre de contexto
+
+QUAIS BASES TEMOS
+QUAIS CODIGOS FONTE DISPONIVEIS
+QUAL LINGUAGEM DA BASE DE DADOS
+
+QUAL É FACIL DE CONVERTER PRO NOSSO MODELO, QUAL TA
+
+QUANTIDADE DE TERMINAIS NAO TERMINAIS
+
+MODELO DE GRAMATICA DELES ESTA SALVO?
+
+METRICAS DE ANALISE
+
+tantar conseguir todas bases de dados
+ver se fizemos algum experimento nas bases
+
+verificar quem citou os artigos selecionados
+
+concentrar aos publicados
+se for publicado
+fazer o read text
+
